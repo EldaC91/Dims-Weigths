@@ -1,0 +1,12 @@
+name: Weights_Dims_Process
+title: Weights_Dims_Process
+username: maxwarehouse
+account: maxwarehouse
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14237857
+bundleId: 10253862
+url: https://maxwarehouse.shinyapps.io/Weights_Dims_Process/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
